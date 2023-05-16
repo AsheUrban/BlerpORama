@@ -17,7 +17,8 @@ _Link to Tutorial:_ https://www.youtube.com/watch?v=XtQMytORBmM
 
 ## Setup/Installation Requirements
 
-* 
+* _Clone down to local by selecting "Clone to Visual Studio" in GitHub._
+* _Open unity hub and select project._
 
 ## Known Bugs
 
