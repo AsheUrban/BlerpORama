@@ -278,7 +278,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 13.23
+  orthographic size: 15.92
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -446,8 +446,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myRigidbody: {fileID: 733328900}
-  flapStrength: 9
+  flapStrength: 5
   logic: {fileID: 0}
+  birdIsAlive: 1
 --- !u!1 &899551578
 GameObject:
   m_ObjectHideFlags: 0
@@ -723,8 +724,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pipe: {fileID: 6209069263265472526, guid: 8482ba994a241ee4ea469bc36abfb13b, type: 3}
-  spawnRate: 3
-  heightOffset: 10
+  spawnRate: 4
+  heightOffset: 6
 --- !u!1 &1246426421
 GameObject:
   m_ObjectHideFlags: 0
