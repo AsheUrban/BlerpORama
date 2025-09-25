@@ -20,6 +20,10 @@ _Link to Tutorial:_ https://www.youtube.com/watch?v=XtQMytORBmM
 * _Clone down to local by selecting "Clone to Visual Studio" in GitHub._
 * _Open unity hub and select project._
 
+## How to Play ##
+
+In Unity, select the Sample Scene from Assets/Scenes. Press the play button to start, use the space bar to keep your birdie in the air and safe from harm!
+
 ## Known Bugs
 
 * _None_
