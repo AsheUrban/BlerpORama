@@ -40,7 +40,7 @@ _Link to tutorial:_ https://www.youtube.com/watch?v=XtQMytORBmM
 
 ## Known Bugs
 
-* _No win lose conditions set up, this is a prototype_
+* _No win conditions set up, this is a prototype_
 
 ## License
 
